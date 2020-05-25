@@ -1,10 +1,3 @@
-//Práctica 3 de MPI, Arquitectura de ordenadores, GEI
-//Alumno: Xabier Iglesias Pérez (xabier.iglesias.perez@udc.es)
-//DNI: 35589713L
-//Entorno: Ubuntu 18.4 Kernel: 5.0.0-23-generic
-//		   Librería openmpi2.1.1-8, gcc: 7.5.0, mpirun: 2.1.1
-//Entorno virtualizado con VirtualBox con host windows 10.
-
 /* Programa que multiplica dos matrices mediante el algoritmo SUMMA
    La matriz A es de tamaño m*k y de B es k*n
 */
